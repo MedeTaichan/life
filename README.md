@@ -1,2 +1,13 @@
-# life
-「+LIFE」(http://kappuku.jp/life/)をTurboWarp上で再現してみました
+# +LIFE（TurboWarp版）
+「[+LIFE](http://kappuku.jp/life/)」をTurboWarp上で再現してみました。
+
+## 作ろうと思った理由
+自分の好きなTurboWarp上で再現してみたかったから。
+
+## 仕組み
+TurboWarpの拡張機能である「ローカルストレージ」を利用して、どれを選んだかが記録されるようにしています。
+（つまり簡単に回避可能です）
+
+## その他
+自由にリミックスしてください。
+参考元とさせていただいた割腹様に感謝します。
