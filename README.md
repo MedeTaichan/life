@@ -1,4 +1,5 @@
 # +LIFE（TurboWarp版）
+[ここから見ることができます](https://app.medetaich.com/life/)
 「[+LIFE](http://kappuku.jp/life/)」を[TurboWarp](https://turbowarp.org/)上で（勝手に）再現してみました。
 
 ## 作ろうと思った理由
